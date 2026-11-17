@@ -47,7 +47,7 @@ O programa salva cada resposta em `resultados/v1.json` e, se a cota da API acaba
 | Versão | Com resposta no FAQ | Fora do FAQ (recusa) | O que mudou |
 |--------|---------------------|----------------------|-------------|
 | v1 | 10/10 | 5/5 | Prompt inicial, 15 testes |
-| v2 | [ ]/[ ] | [ ]/[ ] | [descreva o ajuste e preencha após rodar] |
+
 
 A v1 acertou tudo, o que indica que esses 15 testes eram fáceis. Por isso foram acrescentados testes mais difíceis, como perguntas parecidas com o FAQ mas sem resposta nele, tentativa de burlar as regras e informação errada dentro da pergunta.
 
