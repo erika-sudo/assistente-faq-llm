@@ -1,0 +1,62 @@
+[
+  {
+    "pergunta": "Como redefino minha senha?",
+    "resposta": "Para redefinir sua senha, clique em 'Esqueci minha senha' na tela de login e siga as instruções enviadas para o seu e-mail."
+  },
+  {
+    "pergunta": "Quais são as formas de pagamento aceitas?",
+    "resposta": "Aceitamos cartão de crédito (em até 12x), PIX com aprovação imediata e boleto bancário."
+  },
+  {
+    "pergunta": "Qual é o prazo de entrega?",
+    "resposta": "O prazo de entrega varia de 3 a 7 dias úteis após a confirmação do pagamento, dependendo da sua região."
+  },
+  {
+    "pergunta": "Como faço para rastrear meu pedido?",
+    "resposta": "Você pode acompanhar a entrega acessando a aba 'Meus Pedidos' no site ou usando o código de rastreio enviado por e-mail."
+  },
+  {
+    "pergunta": "Quero falar com um atendente humano.",
+    "resposta": "Sem problemas! Nosso atendimento humano funciona de segunda a sexta, das 9h às 18h. Estou transferindo você agora."
+  },
+  {
+    "pergunta": "O pagamento foi recusado, o que fazer?",
+    "resposta": "Verifique se os dados do cartão (número, validade e CVV) estão corretos ou se há limite disponível. Você também pode tentar usar outra forma de pagamento, como o PIX."
+  },
+  {
+    "pergunta": "Como faço para cancelar um pedido?",
+    "resposta": "Você pode solicitar o cancelamento diretamente na aba 'Meus Pedidos' antes que ele seja despachado para transportadora."
+  },
+  {
+    "pergunta": "Como funciona a troca ou devolução de um produto?",
+    "resposta": "Você tem até 7 dias corridos após o recebimento para solicitar a troca ou devolução na seção de ajuda do nosso site."
+  },
+  {
+    "pergunta": "Qual é o prazo para receber o reembolso?",
+    "resposta": "O reembolso via PIX é feito em até 2 dias úteis. Para cartões de crédito, o estorno aparece na sua fatura em até duas faturas subsequentes."
+  },
+  {
+    "pergunta": "Meu cupom de desconto não funciona, por que?",
+    "resposta": "Confira se o cupom está dentro do prazo de validade, se há um valor mínimo de compra exigido ou se ele é aplicável apenas a categorias específicas."
+  },
+  {
+    "pergunta": "Posso alterar o endereço de entrega após finalizar a compra?",
+    "resposta": "Por questões de segurança e logística, não é possível alterar o endereço após a conclusão do pedido. Certifique-se de revisá-lo antes de fechar a compra."
+  },
+  {
+    "pergunta": "Meu pedido está atrasado, como proceder?",
+    "resposta": "Caso o prazo limite de entrega tenha expirado, entre em contato com nosso suporte informando o número do pedido para verificarmos com a transportadora."
+  },
+  {
+    "pergunta": "Recebi um produto com defeito, o que faço?",
+    "resposta": "Pedimos desculpas pelo ocorrido! Envie fotos do defeito e o número do pedido para o nosso suporte para providenciaremos a troca ou o reembolso."
+  },
+  {
+    "pergunta": "Como altero o meu e-mail de cadastro?",
+    "resposta": "Acesse as 'Configurações da Conta' no menu do usuário logado para atualizar o seu endereço de e-mail com segurança."
+  },
+  {
+    "pergunta": "Esqueci meu usuário, como recuperar?",
+    "resposta": "Você pode recuperar seu usuário informando o seu CPF ou e-mail cadastrado na opção de recuperação de login na tela de acesso."
+  }
+]

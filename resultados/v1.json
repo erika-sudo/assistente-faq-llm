@@ -1,0 +1,92 @@
+[
+  {
+    "pergunta": "esqueci a senha do site, como entro de novo?",
+    "tem_resposta": true,
+    "resposta": "Para redefinir sua senha, clique em 'Esqueci minha senha' na tela de login e siga as instruções enviadas para o seu e-mail.",
+    "acertou": true
+  },
+  {
+    "pergunta": "posso pagar no pix?",
+    "tem_resposta": true,
+    "resposta": "Sim! Aceitamos PIX com aprovação imediata, além de cartão de crédito (em até 12x) e boleto bancário.",
+    "acertou": true
+  },
+  {
+    "pergunta": "em quantas vezes posso parcelar no cartão?",
+    "tem_resposta": true,
+    "resposta": "Você pode parcelar suas compras no cartão de crédito em até 12x.",
+    "acertou": true
+  },
+  {
+    "pergunta": "quanto tempo demora pra chegar?",
+    "tem_resposta": true,
+    "resposta": "O prazo de entrega varia de 3 a 7 dias úteis após a confirmação do pagamento, dependendo da sua região.",
+    "acertou": true
+  },
+  {
+    "pergunta": "onde vejo o código de rastreio?",
+    "tem_resposta": true,
+    "resposta": "O código de rastreio é enviado para o seu e-mail. Você também pode acompanhar a entrega acessando a aba 'Meus Pedidos' no site.",
+    "acertou": true
+  },
+  {
+    "pergunta": "meu cartão foi recusado",
+    "tem_resposta": true,
+    "resposta": "Verifique se os dados do cartão (número, validade e CVV) estão corretos ou se há limite disponível. Você também pode tentar usar outra forma de pagamento, como o PIX.",
+    "acertou": true
+  },
+  {
+    "pergunta": "quantos dias tenho pra devolver um produto?",
+    "tem_resposta": true,
+    "resposta": "Você tem até 7 dias corridos após o recebimento para solicitar a troca ou devolução na seção de ajuda do nosso site.",
+    "acertou": true
+  },
+  {
+    "pergunta": "em quanto tempo cai o reembolso no pix?",
+    "tem_resposta": true,
+    "resposta": "O reembolso via PIX é feito em até 2 dias úteis.",
+    "acertou": true
+  },
+  {
+    "pergunta": "comprei com o endereço errado, posso mudar?",
+    "tem_resposta": true,
+    "resposta": "Por questões de segurança e logística, não é possível alterar o endereço após a conclusão do pedido. Certifique-se de revisá-lo antes de fechar a compra.",
+    "acertou": true
+  },
+  {
+    "pergunta": "qual o horário do atendimento humano?",
+    "tem_resposta": true,
+    "resposta": "Nosso atendimento humano funciona de segunda a sexta, das 9h às 18h.",
+    "acertou": true
+  },
+  {
+    "pergunta": "vocês têm loja física?",
+    "tem_resposta": false,
+    "resposta": "NAO_SEI",
+    "acertou": true
+  },
+  {
+    "pergunta": "como emito a nota fiscal?",
+    "tem_resposta": false,
+    "resposta": "NAO_SEI",
+    "acertou": true
+  },
+  {
+    "pergunta": "o frete é grátis a partir de quanto?",
+    "tem_resposta": false,
+    "resposta": "NAO_SEI",
+    "acertou": true
+  },
+  {
+    "pergunta": "vocês vendem celular?",
+    "tem_resposta": false,
+    "resposta": "NAO_SEI",
+    "acertou": true
+  },
+  {
+    "pergunta": "qual vai ser a previsão do tempo amanhã?",
+    "tem_resposta": false,
+    "resposta": "NAO_SEI",
+    "acertou": true
+  }
+]
